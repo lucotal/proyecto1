@@ -1,0 +1,26 @@
+h1{
+    text-align: center; color: blue;
+}
+table{
+    width: 100%;
+    border: 3px solid rgb(7, 247, 91);
+}
+th{
+    font-size: large;
+    text-align:right;
+}
+td{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+img{
+    
+    width: 20%;
+    height: 20%;
+}
+body{
+    background: rgb(63,94,251);
+    background: linear-gradient(339deg, rgba(63,94,251,1) 22%, rgba(63,94,251,1) 32%, rgba(252,70,107,1) 85%);
+
+}
