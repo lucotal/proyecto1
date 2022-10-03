@@ -3,6 +3,7 @@ h1{
 }
 table{
     width: 100%;
+    border: 3px, solid, rgb(48, 29, 215);
     
 }
 th{
@@ -14,19 +15,14 @@ td{
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align:center;
-   
+    
    
 }
 li{
     font-size:larger;
-    color: brown;
-    
+
+    color: brown;    
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-body{
-    
-    background: rgb(191,109,201);
-    background: radial-gradient(circle, rgba(191,109,201,1) 0%, rgba(246,124,244,1) 3%, rgba(201,139,208,1) 16%, rgba(152,135,236,1) 35%, rgba(116,175,215,1) 69%, rgba(95,110,223,1) 92%, rgba(66,19,237,1) 100%);
 }
 
 h3{
@@ -35,7 +31,19 @@ h3{
     color: darkgreen;
     font-size: xx-large;
 }
-img1{
-    width: 5%;
-    height: 5%;
+.img10{
+    
+    width: 250px;
+    height: 250px;
+
+}
+.img11{
+    width: 150px;
+    height: 150px;
+    border-radius: 10%;
+}
+body{
+    
+    background: rgb(191,109,201);
+    background: radial-gradient(circle, rgba(191,109,201,1) 0%, rgba(246,124,244,1) 3%, rgba(201,139,208,1) 16%, rgba(152,135,236,1) 35%, rgba(116,175,215,1) 69%, rgba(95,110,223,1) 92%, rgba(66,19,237,1) 100%);
 }
